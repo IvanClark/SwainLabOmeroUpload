@@ -1,0 +1,8 @@
+function [dsIds dsNames dsDescriptions tagString]=getTagDs(obj,tagName)
+
+%Returns arrays describing the datasets associated with the input tag name
+
+
+
+
+end

@@ -1,0 +1,5 @@
+function path=pcPath(obj)
+%Returns the save path - defined for macs - for the object in PC format
+k=strfind(a,'/')
+
+
